@@ -35,3 +35,7 @@
 | Asteria | FEAT-035 | FEAT-035-2026-09-05T203500Z-halricbent.jpg | https://i.imgur.com/pGXkwpJ.jpeg |
 | Asteria | FEAT-036 | FEAT-036-2026-09-05T203500Z-maerasol.jpg | https://i.imgur.com/ApmCkII.jpeg |
 | Asteria | FEAT-044 | FEAT-044-2026-09-05T203500Z-deepfissure.jpg | https://i.imgur.com/QqJKfsp.jpeg |
+| Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-height.jpg | https://i.imgur.com/MiwQPdk.jpeg |
+| Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-cities.jpg | https://i.imgur.com/hL1xCaD.jpeg |
+| Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-terrain.jpg | https://i.imgur.com/IasvINg.jpeg |
+| Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-political.jpg | https://i.imgur.com/MWXYyt7.jpeg |
