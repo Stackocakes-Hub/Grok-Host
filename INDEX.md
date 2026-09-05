@@ -26,7 +26,8 @@
 | Asteria | FEAT-027 | FEAT-027-2026-09-05T203500Z-caelward.jpg | https://i.imgur.com/BKOY1pK.jpeg |
 | Asteria | FEAT-027 | FEAT-027-2026-09-05T212000Z-cael-act0-turnaround.jpg | https://i.imgur.com/wyvf5Pi.jpeg |
 | Asteria | FEAT-027 | FEAT-027-2026-09-05T212000Z-cael-act0-portrait.jpg | https://i.imgur.com/OTKB0kL.jpeg |
-| Asteria | FEAT-027 | FEAT-027-cael-ward-build-study.jpg | https://i.imgur.com/PZ8WU5U.jpeg |
+| Asteria | FEAT-027 | FEAT-027-cael-ward-build-study.jpg (superseded, too muscled) | https://i.imgur.com/PZ8WU5U.jpeg |
+| Asteria | FEAT-027 | FEAT-027-cael-ward-build-study.jpg | https://i.imgur.com/9lqhxEw.jpeg |
 | Asteria | FEAT-028 | FEAT-028-2026-09-05T203500Z-liraenquill.jpg | https://i.imgur.com/Gq6RWru.jpeg |
 | Asteria | FEAT-028 | FEAT-028-2026-09-05T212000Z-liraen-early-turnaround.jpg | https://i.imgur.com/JqBZMQ9.jpeg |
 | Asteria | FEAT-028 | FEAT-028-2026-09-05T212000Z-liraen-early-portrait.jpg | https://i.imgur.com/Ez6FN3j.jpeg |
