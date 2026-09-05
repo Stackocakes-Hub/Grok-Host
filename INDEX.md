@@ -9,6 +9,7 @@
 | Asteria | FEAT-002 | FEAT-002-velith-build-study.jpg | https://i.imgur.com/ODg5rXt.jpeg |
 | Asteria | FEAT-002 | FEAT-002-nyxara-form-study.jpg | https://i.imgur.com/c3vlaPo.jpeg |
 | Asteria | FEAT-004 | FEAT-004-2026-09-05T203500Z-worldcannon.jpg | https://i.imgur.com/ii1oFfm.jpeg |
+| Asteria | FEAT-005 | Master-Map-Alpha-A0.1.jpg | https://i.imgur.com/y2jC9MQ.jpeg |
 | Asteria | FEAT-013 | FEAT-013-2026-09-05T203500Z-padon.jpg | https://i.imgur.com/csjoJJL.jpeg |
 | Asteria | FEAT-014 | FEAT-014-2026-09-05T203500Z-ironsgate.jpg | https://i.imgur.com/FVmUJyN.jpeg |
 | Asteria | FEAT-015 | FEAT-015-2026-09-05T203500Z-constium.jpg | https://i.imgur.com/mlf6ibG.jpeg |
