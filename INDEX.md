@@ -21,7 +21,11 @@
 | Asteria | FEAT-025 | FEAT-025-2026-09-05T203500Z-templelife.jpg | https://i.imgur.com/SXe16UP.jpeg |
 | Asteria | FEAT-026 | FEAT-026-2026-09-05T203500Z-templelight.jpg | https://i.imgur.com/yCPQcbR.jpeg |
 | Asteria | FEAT-027 | FEAT-027-2026-09-05T203500Z-caelward.jpg | https://i.imgur.com/BKOY1pK.jpeg |
+| Asteria | FEAT-027 | FEAT-027-2026-09-05T212000Z-cael-act0-turnaround.jpg | https://i.imgur.com/wyvf5Pi.jpeg |
+| Asteria | FEAT-027 | FEAT-027-2026-09-05T212000Z-cael-act0-portrait.jpg | https://i.imgur.com/OTKB0kL.jpeg |
 | Asteria | FEAT-028 | FEAT-028-2026-09-05T203500Z-liraenquill.jpg | https://i.imgur.com/Gq6RWru.jpeg |
+| Asteria | FEAT-028 | FEAT-028-2026-09-05T212000Z-liraen-early-turnaround.jpg | https://i.imgur.com/JqBZMQ9.jpeg |
+| Asteria | FEAT-028 | FEAT-028-2026-09-05T212000Z-liraen-early-portrait.jpg | https://i.imgur.com/Ez6FN3j.jpeg |
 | Asteria | FEAT-029 | FEAT-029-2026-09-05T203500Z-rookfenn.jpg | https://i.imgur.com/1N4s2o9.jpeg |
 | Asteria | FEAT-030 | FEAT-030-2026-09-05T203500Z-branndur.jpg | https://i.imgur.com/YQtT0nX.jpeg |
 | Asteria | FEAT-031 | FEAT-031-2026-09-05T203500Z-serisvale.jpg | https://i.imgur.com/Ok7xWlb.jpeg |
