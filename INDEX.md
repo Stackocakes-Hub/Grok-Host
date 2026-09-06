@@ -70,3 +70,5 @@
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-cities.jpg | https://i.imgur.com/hL1xCaD.jpeg |
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-terrain.jpg | https://i.imgur.com/IasvINg.jpeg |
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-political.jpg | https://i.imgur.com/MWXYyt7.jpeg |
+| Asteria | FEAT-054 | FEAT-054-title-card-layout.jpg | https://i.imgur.com/GPq7Uzn.jpeg |
+| Asteria | FEAT-054 | FEAT-054-title-card-bg.jpg | https://i.imgur.com/aFTsU8J.jpeg |
