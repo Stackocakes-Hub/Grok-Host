@@ -63,8 +63,9 @@
 | Asteria | FEAT-036 | FEAT-036-2026-09-05T203500Z-maerasol.jpg | https://i.imgur.com/ApmCkII.jpeg |
 | Asteria | FEAT-036 | FEAT-036-maera-sol-build-study.jpg | https://i.imgur.com/XgzvM0r.jpeg |
 | Asteria | FEAT-044 | FEAT-044-2026-09-05T203500Z-deepfissure.jpg | https://i.imgur.com/QqJKfsp.jpeg |
-| Asteria | FEAT-052 | FEAT-052-act0-boss-concept.jpg | https://i.imgur.com/BbkVT07.jpeg |
-| Asteria | FEAT-052 | FEAT-052-act0-boss-sketch.jpg | https://i.imgur.com/XF7O0cL.jpeg |
+| Asteria | FEAT-052 | FEAT-052-act0-boss-concept.jpg (superseded) | https://i.imgur.com/BbkVT07.jpeg |
+| Asteria | FEAT-052 | FEAT-052-act0-boss-sketch.jpg (superseded) | https://i.imgur.com/XF7O0cL.jpeg |
+| Asteria | FEAT-052 | FEAT-052-snapfrog-final.png | https://i.imgur.com/qrNcdKW.png |
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-height.jpg | https://i.imgur.com/MiwQPdk.jpeg |
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-cities.jpg | https://i.imgur.com/hL1xCaD.jpeg |
 | Asteria | SET-1.2 | SET-1.2-2026-09-05T221700Z-terrain.jpg | https://i.imgur.com/IasvINg.jpeg |
