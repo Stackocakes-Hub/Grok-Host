@@ -12,6 +12,7 @@
 | Asteria | FEAT-002 | FEAT-002-velith-undead-study.jpg | https://i.imgur.com/GIslM8P.jpeg |
 | Asteria | FEAT-004 | FEAT-004-2026-09-05T203500Z-worldcannon.jpg | https://i.imgur.com/ii1oFfm.jpeg |
 | Asteria | FEAT-004 | FEAT-004-worldcannon-vertical.jpg | https://i.imgur.com/Bc2CWwm.jpeg |
+| Asteria | FEAT-004 | FEAT-004-worldcannon-fallen-scale.jpg | https://i.imgur.com/trJJSzL.jpeg |
 | Asteria | FEAT-005 | Master-Map-Alpha-A0.1.jpg | https://i.imgur.com/y2jC9MQ.jpeg |
 | Asteria | FEAT-013 | FEAT-013-2026-09-05T203500Z-padon.jpg | https://i.imgur.com/csjoJJL.jpeg |
 | Asteria | FEAT-014 | FEAT-014-2026-09-05T203500Z-ironsgate.jpg | https://i.imgur.com/FVmUJyN.jpeg |
@@ -29,8 +30,10 @@
 | Asteria | FEAT-023 | FEAT-023-2026-09-05T203500Z-templewater.jpg | https://i.imgur.com/kyRoJyz.jpeg |
 | Asteria | FEAT-023 | FEAT-023-templewater-layout.jpg | https://i.imgur.com/mCfISje.jpeg |
 | Asteria | FEAT-023 | FEAT-023-templewater-overcast.jpg | https://i.imgur.com/We5XbjD.jpeg |
+| Asteria | FEAT-023 | FEAT-023-templewater-match-layout.jpg | https://i.imgur.com/ttSCoa7.jpeg |
 | Asteria | FEAT-024 | FEAT-024-2026-09-05T203500Z-templefire.jpg | https://i.imgur.com/kR98KXR.jpeg |
 | Asteria | FEAT-024 | FEAT-024-templefire-no-cannon.jpg | https://i.imgur.com/DVmjtXw.jpeg |
+| Asteria | FEAT-024 | FEAT-024-templefire-layout.jpg | https://i.imgur.com/gSNlw3a.jpeg |
 | Asteria | FEAT-025 | FEAT-025-2026-09-05T203500Z-templelife.jpg | https://i.imgur.com/SXe16UP.jpeg |
 | Asteria | FEAT-025 | FEAT-025-templelife-peninsula.jpg | https://i.imgur.com/Ae8RY4S.jpeg |
 | Asteria | FEAT-026 | FEAT-026-2026-09-05T203500Z-templelight.jpg | https://i.imgur.com/yCPQcbR.jpeg |
